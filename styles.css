@@ -1,7 +1,48 @@
 /* I'm going to make the H1 awesome*/
 
+a.navbar-brand img {
+
+    width: 50px;
+    height: 40px;
+    }
+   
+.jumbotron {
+        background-image: url("Top_movies.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        
+    }
+
+#site-description {
+    
+    padding-top: 10px;
+    padding-bottom: 10px;    
+    }
+
+.carousel-item img {
+    height: auto; 
+    width: auto; 
+    max-width: 1360px; 
+    max-height: 400px;
+    padding-left: 100px;
+    padding-right: 100px; 
+
+}
+
+#Full-list {
+    padding-top: 30px;
+}
+
+.table {
+font-size: 8pt
+
+}
+
+
+/* I'm going to make the H1 awesome
 body {
-/*background-image: url(6NY2.gif);*/
 background-color: rgb(44, 45, 58);
 background-repeat: url (planet)
 color: white;
@@ -30,3 +71,4 @@ img {
     border-color: antiquewhite;
     border-style: dotted;
 }
+*/
